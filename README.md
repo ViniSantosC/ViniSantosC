@@ -1,5 +1,11 @@
 # 👩🏻‍💻 Vinicius Santos
+<br>
 
+<p align="center">
+  <img src="pixels-neon.gif" width="900px" />
+</p>
+
+<br>
 <div align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1!+Eu+sou+o+Vinicius+Santos;Cursando+Desenvolvimento+de+Sistemas;Sempre+em+busca+de+novos+desafios" alt="Typing SVG">
