@@ -66,5 +66,16 @@ Conecte-se Comigo
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniSantosC/ViniSantosC/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=GlledessonMonteiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlledessonMonteiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
 
+---
 
