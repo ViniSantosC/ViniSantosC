@@ -69,7 +69,7 @@
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)">
+      <img height="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
     </td>
     <td style="padding-left: 30px;">
       <img src="pixels-neon.gif" height="200"/>
