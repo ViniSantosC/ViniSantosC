@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="pixels-neon.gif" width="900px" />
+  <img src="banner.gif" width="800px" />
 </p>
 
 <br>
