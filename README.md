@@ -86,7 +86,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniSantosC&theme=dracula&utcOffset=-3" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniSantosC&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ViniSantosC&show_icons=true&theme=dracula&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniSantosC&layout=compact&theme=dracula"/>
 </p>
 
 ---
