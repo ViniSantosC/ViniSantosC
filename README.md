@@ -90,7 +90,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniSantosC&layout=compact&theme=dracula"/>
 </p>
 
----
+
 
 ## 🐍 Contribuições
 
@@ -98,10 +98,13 @@
   <img src="https://raw.githubusercontent.com/ViniSantosC/ViniSantosC/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+
 
 ## 🚀 Objetivo
 
 > Evoluir constantemente como desenvolvedor e conquistar espaço no mercado de tecnologia, com foco em criar interfaces modernas, funcionais e profissionais.
+> <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#360047d&section=footer" />
+</p>
 
----
+
