@@ -119,10 +119,7 @@ Meu espaço para testar ideias, aprender tecnologias e registrar minha evoluçã
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViniSantosC&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSantosC&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViniSantosC&theme=tokyonight-duo)](https://git.io/streak-stats)
 </div>
 
 ---
