@@ -1,110 +1,179 @@
 # 👨🏻‍💻 Vinicius Santos Camelo
 
-<p align="center">
-  <img src="output-onlinegiftools.gif" width="1000px" alt="Banner Vinicius" />
-</p>
+### `Front-End Developer in progress 🚀`
+
+<div align="center">
+
+### 💜 Code   •   🎨 Design   •   🚀 Projects
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=header"/>
+
+</div>
 
 ---
 
+## 🧑🏻‍💻 Sobre mim
 
-## 🎓 Sobre mim
+🎓 Estudante de **Desenvolvimento de Sistemas**
+💻 Focado em **Front-End & Desenvolvimento Web**
+🎨 Gosto de criar **interfaces modernas e experiências interativas**
+🚀 Transformando estudos em projetos reais
 
-💻 Estudante de **Desenvolvimento de Sistemas**  
-🏫 PEI Alberto Salotti (Ensino Médio + Técnico)  
-🎯 Foco: **Frontend + Mercado de Tecnologia**  
-📚 Preparação para vestibular e carreira em TI  
+> 💜 *Um projeto de cada vez. Uma habilidade de cada vez.*
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-<p align="left">
- <a href="https://github.com/ViniSantosC?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/ViniSantosC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/ViniSantosC?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/ViniSantosC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
+<a href="https://github.com/ViniSantosC">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.instagram.com/santoscamelovinicius/">
-    <img src="https://img.shields.io/badge/Instagram-@santoscamelovinicius-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://wa.me/5511984209324">
-    <img 
-      alt="WhatsApp" 
-      title="Me chame no WhatsApp" 
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-    />
-  </a>
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-santos-490922244/">
-    <img 
-      alt="LinkedIn" 
-      title="Meu LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🤖 Tecnologias
+## 🧰 Tecnologias
 
-<table>
-  <tr>
-    <td valign="middle">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img height="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-    </td>
-    <td style="padding-left: 30px;">
-      <img src="pixels-neon.gif" height="200"/>
-    </td>
-  </tr>
-</table>
+### 💜 Front-End
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</div>
+
+### 🛠️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+
+</div>
+
+### 🟢 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,reactnative" />
+
+</div>
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Projetos
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniSantosC&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniSantosC&theme=dracula&utcOffset=-3" />
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ViniSantosC&show_icons=true&theme=dracula&count_private=true" height="170"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViniSantosC&layout=compact&theme=dracula"/>
-</p>
+<div align="center">
 
+### 💳 Sallotti Pay
 
+`Front-End` `UI/UX` `Projeto acadêmico`
 
-## 🐍 Contribuições
+Uma experiência de banco digital criada para praticar desenvolvimento e interfaces.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViniSantosC/ViniSantosC/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<br>
 
+### 🐾 VetControll
 
+`Web` `Banco de Dados` `Sistema`
 
-## 🚀 Objetivo
+Projeto voltado para gerenciamento de uma clínica veterinária.
 
-> Evoluir constantemente como desenvolvedor e conquistar espaço no mercado de tecnologia, com foco em criar interfaces modernas, funcionais e profissionais.
-> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#360047d&section=footer" />
-</p>
+<br>
 
+### 🧪 VINI-PRATIC
 
+`Laboratório` `Estudos` `Experimentos`
+
+Meu espaço para testar ideias, aprender tecnologias e registrar minha evolução.
+
+</div>
+
+---
+
+## 📚 Atualmente
+
+<div align="center">
+
+🟣 **React**
+🟣 **JavaScript**
+🟣 **Node.js**
+🟣 **Express**
+🟣 **Banco de Dados**
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ViniSantosC&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSantosC&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+## 🧭 Minha jornada
+
+```mermaid
+graph LR
+    A[🎓 Técnico] --> B[💻 Front-End]
+    B --> C[⚛️ React]
+    C --> D[🚀 Projetos]
+    D --> E[🎓 Faculdade]
+    E --> F[💼 Tecnologia]
+
+    style A fill:#8B5CF6,color:#fff,stroke:#A855F7
+    style B fill:#8B5CF6,color:#fff,stroke:#A855F7
+    style C fill:#8B5CF6,color:#fff,stroke:#A855F7
+    style D fill:#8B5CF6,color:#fff,stroke:#A855F7
+    style E fill:#8B5CF6,color:#fff,stroke:#A855F7
+    style F fill:#8B5CF6,color:#fff,stroke:#A855F7
+```
+
+---
+
+## 🎯 Objetivo
+
+> **Construir, aprender e evoluir.**
+
+Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquistar meu espaço no mercado de tecnologia.
+
+---
+
+## 🟢 `status`
+
+```text
+> studying...
+> building projects...
+> improving skills...
+> next_level = loading...
+```
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+`Vinicius Santos Camelo`
+
+### `Front-End Developer in progress 🚀`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+
+</div>
