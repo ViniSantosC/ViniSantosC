@@ -156,17 +156,17 @@ Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquist
 
 ## 🟢 `status`
 
-<img src="banner.gif"/>
+<img src="banner1.gif"/>
 
 ---
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💜 Obrigado por visita meu perfil
 
 `Vinicius Santos Camelo`
 
-### `Front-End Developer in progress 🚀`
+### `Desenvolvedor Front-End em progresso 🚀`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
 
