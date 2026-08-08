@@ -135,12 +135,13 @@ graph LR
     D --> E[🎓 Faculdade]
     E --> F[💼 Tecnologia]
 
-    style A fill:#8B5CF6,color:#fff,stroke:#A855F7
-    style B fill:#8B5CF6,color:#fff,stroke:#A855F7
-    style C fill:#8B5CF6,color:#fff,stroke:#A855F7
-    style D fill:#8B5CF6,color:#fff,stroke:#A855F7
-    style E fill:#8B5CF6,color:#fff,stroke:#A855F7
-    style F fill:#8B5CF6,color:#fff,stroke:#A855F7
+  
+    style A fill:#3B82F6,color:#fff,stroke:#60A5FA
+    style B fill:#06B6D4,color:#fff,stroke:#22D3EE
+    style C fill:#F59E0B,color:#fff,stroke:#FBBF24
+    style D fill:#EC4899,color:#fff,stroke:#F472B6
+    style E fill:#8B5CF6,color:#fff,stroke:#A78BFA
+    style F fill:#22C55E,color:#fff,stroke:#4ADE80
 ```
 
 ---
