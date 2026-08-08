@@ -7,6 +7,7 @@
 ### 💜 Code   •   🎨 Design   •   🚀 Projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=header"/>
+<img src="pixels-neon.gif"/>
 
 </div>
 
