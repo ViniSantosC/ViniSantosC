@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vinicius Santos Camelo
 
-### `Front-End Developer in progress 🚀`
+### `Desenvolvedor Front-End em progresso 🚀`
 
 <div align="center">
 
