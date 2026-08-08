@@ -156,12 +156,7 @@ Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquist
 
 ## 🟢 `status`
 
-```text
-> studying...
-> building projects...
-> improving skills...
-> next_level = loading...
-```
+<img src="banner.gif"/>
 
 ---
 
