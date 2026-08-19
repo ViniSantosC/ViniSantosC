@@ -62,18 +62,12 @@
 
 </div>
 
-### 🟢 Atualmente estudando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,reactnative" />
-
-</div>
 
 
 
 
-## 📚 Atualmente aprendendo
+
+## Atualmente aprendendo
 
 <div align="center">
 
@@ -98,7 +92,7 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 > **Construir, aprender e evoluir.**
 
@@ -114,7 +108,7 @@ Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquist
 
 <div align="center">
 
-### 💜 Obrigado por visita meu perfil
+### 💜 Obrigado por visitar meu perfil
 
 `Vinicius Santos Camelo`
 
