@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 💜 Code   •   🎨 Design   •   🚀 Projects
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=header"/>
 <img src="pixels-neon.gif"/>
@@ -15,14 +15,14 @@
 
 ## 🧑🏻‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas**
-💻 Focado em **Front-End & Desenvolvimento Web**
-🎨 Gosto de criar **interfaces modernas e experiências interativas**
-🚀 Transformando estudos em projetos reais
+ Estudante de **Desenvolvimento de Sistemas**
+ Focado em **Front-End & Desenvolvimento Web**
+ Gosto de criar **interfaces modernas e experiências interativas**
+ Transformando estudos em projetos reais
 
 > 💜 *Um projeto de cada vez. Uma habilidade de cada vez.*
 
----
+
 
 ## 🌐 Conecte-se comigo
 
@@ -46,7 +46,7 @@
 
 ## 🧰 Tecnologias
 
-### 💜 Front-End
+### Front-End
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 </div>
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <div align="center">
 
@@ -70,37 +70,8 @@
 
 </div>
 
----
 
-## 🚀 Projetos
 
-<div align="center">
-
-### 💳 Sallotti Pay
-
-`Front-End` `UI/UX` `Projeto acadêmico`
-
-Uma experiência de banco digital criada para praticar desenvolvimento e interfaces.
-
-<br>
-
-### 🐾 VetControll
-
-`Web` `Banco de Dados` `Sistema`
-
-Projeto voltado para gerenciamento de uma clínica veterinária.
-
-<br>
-
-### 🧪 VINI-PRATIC
-
-`Laboratório` `Estudos` `Experimentos`
-
-Meu espaço para testar ideias, aprender tecnologias e registrar minha evolução.
-
-</div>
-
----
 
 ## 📚 Atualmente aprendendo
 
@@ -123,26 +94,7 @@ Meu espaço para testar ideias, aprender tecnologias e registrar minha evoluçã
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViniSantosC&theme=tokyonight-duo)](https://git.io/streak-stats)
 </div>
 
----
 
-## 🧭 Minha jornada
-
-```mermaid
-graph LR
-    A[🎓 Técnico] --> B[💻 Front-End]
-    B --> C[⚛️ React]
-    C --> D[🚀 Projetos]
-    D --> E[🎓 Faculdade]
-    E --> F[💼 Tecnologia]
-
-  
-    style A fill:#3B82F6,color:#fff,stroke:#60A5FA
-    style B fill:#06B6D4,color:#fff,stroke:#22D3EE
-    style C fill:#F59E0B,color:#fff,stroke:#FBBF24
-    style D fill:#EC4899,color:#fff,stroke:#F472B6
-    style E fill:#8B5CF6,color:#fff,stroke:#A78BFA
-    style F fill:#22C55E,color:#fff,stroke:#4ADE80
-```
 
 ---
 
