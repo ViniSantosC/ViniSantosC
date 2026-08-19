@@ -18,7 +18,7 @@
  Estudante de **Desenvolvimento de Sistemas**
  Focado em **Front-End & Desenvolvimento Web**
  Gosto de criar **interfaces modernas e experiências interativas**
- Transformando estudos em projetos reais
+ Transformando estudos em projetos reais e dando tudo de min por uma interface bonita e unica.
 
 > 💜 *Um projeto de cada vez. Uma habilidade de cada vez.*
 
