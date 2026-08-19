@@ -101,11 +101,6 @@ Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquist
 
 ---
 
-## 🟢 `status`
-
-<img src="banner1.gif"/>
-
----
 
 <div align="center">
 
