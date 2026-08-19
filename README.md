@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vinicius Santos Camelo
 
-### `Desenvolvedor Front-End em progresso 🚀`
+### `Desenvolvedor Front-End em progresso `
 
 <div align="center">
 
@@ -20,11 +20,11 @@
  Gosto de criar **interfaces modernas e experiências interativas**
  Transformando estudos em projetos reais e dando tudo de min por uma interface bonita e unica.
 
-> 💜 *Um projeto de cada vez. Uma habilidade de cada vez.*
+>  *Um projeto de cada vez. Uma habilidade de cada vez.*
 
 
 
-## 🌐 Conecte-se comigo
+##  Conecte-se comigo
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧰 Tecnologias
+##  Tecnologias
 
 ### Front-End
 
@@ -108,7 +108,7 @@ Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquist
 
 `Vinicius Santos Camelo`
 
-### `Desenvolvedor Front-End em progresso 🚀`
+### `Desenvolvedor Front-End em progresso `
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
 
