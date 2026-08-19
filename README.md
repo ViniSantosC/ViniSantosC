@@ -97,7 +97,7 @@
 
 > **Construir, aprender e evoluir.**
 
-Quero continuar desenvolvendo minhas habilidades, entrar na faculdade e conquistar meu espaço no mercado de tecnologia.
+Quero continuar desenvolvendo minhas habilidades, entrar na faculdade conseguir meu primeiro emprego e uma oportunidade para me estabelecer.
 
 ---
 
