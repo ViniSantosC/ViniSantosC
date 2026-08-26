@@ -28,7 +28,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:vini976964150@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-santos-490922244/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/santoscamelovinicius/)
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white)](curriculo.pdf)
+
 
 <h3 align="left">My Stack ~</h3>
 
@@ -48,9 +48,18 @@
   </a>
 </div>
 
+
  
 </div>
 
 
 #
 
+<h3 align="left">📄 Meu Currículo</h3>
+
+<a href="https://curriculo-terminal.onrender.com/">
+  <img src="https://img.shields.io/badge/🚀%20Currículo%20no%20Terminal-000000?style=for-the-badge" />
+</a>
+
+```bash
+curl https://curriculo-terminal.onrender.com/
