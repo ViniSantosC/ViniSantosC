@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Widget Música 16:8 - Edição Especial Roxa</title>
+    <style>
+        /* Fundo externo estático e escuro para destacar o painel */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #03010a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            overflow: hidden;
+        }
+
+        /* PAINEL PRINCIPAL DO PLAYER */
+        .spotify-card {
+            position: relative;
+            width: 820px;
+            height: 240px;
+            border: 2px solid rgba(147, 51, 234, 0.3); /* Borda Roxa Sutil */
+            border-radius: 24px;
+            display: flex;
+            align-items: center;
+            padding: 0 35px;
+            box-sizing: border-box;
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.95);
+            overflow: visible; 
+        }
+
+        /* O VÍDEO DE FUNDO DO PAINEL */
+        .panel-video-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; 
+            border-radius: 22px; 
+            z-index: 0; 
+            pointer-events: none; 
+        }
+
+        /* Camada escura roxa por cima do vídeo para dar clima e manter o texto legível */
+        .spotify-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(135deg, rgba(15, 7, 28, 0.75), rgba(40, 10, 65, 0.6));
+            border-radius: 22px;
+            z-index: 1; 
+        }
+
+        /* Container que junta a Capa 16:8 e o Disco */
+        .player-wrapper {
+            position: relative;
+            width: 280px; 
+            height: 140px; 
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            flex-shrink: 0;
+            z-index: 2; 
+        }
+
+        /* Moldura Iluminada da Capa Retangular (Mundado para Roxo e Dourado) */
+        .cover-frame {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            border-radius: 18px;
+            background: linear-gradient(135deg, #a855f7, #eab308); /* Gradiente Roxo e Dourado */
+            padding: 3px;
+            box-sizing: border-box;
+            z-index: 3; 
+            box-shadow: 0 15px 35px rgba(126, 34, 206, 0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* Tag de Imagem Única da Capa */
+        .album-cover {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; 
+            border-radius: 15px;
+        }
+
+        /* DISCO DE VINIL ANIMADO */
+        .vinyl-record {
+            position: absolute;
+            left: 140px; 
+            width: 170px;
+            height: 170px;
+            background-color: #0b0514;
+            border-radius: 50%;
+            border: 2px solid #2e164d;
+            z-index: 1; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+            box-shadow: inset 0 0 0 15px #0f071a,
+                        inset 0 0 0 30px #1a0b2e,
+                        inset 0 0 0 45px #0b0514,
+                        5px 5px 25px rgba(0, 0, 0, 0.8);
+
+            animation: spinVinyl 2s linear infinite;
+        }
+
+        /* Feixe de Luz Mágico sobre o Vinil (Flashes Roxos) */
+        .vinyl-record::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            border-radius: 50%;
+            background: conic-gradient(
+                from 0deg,
+                transparent 0%,
+                rgba(168, 85, 247, 0.2) 25%,
+                transparent 50%,
+                rgba(234, 179, 8, 0.15) 75%,
+                transparent 100%
+            );
+            z-index: 2;
+        }
+
+        /* Ponto Dourado Central do Vinil (Combinando com os detalhes da arte) */
+        .record-dot {
+            width: 16px;
+            height: 16px;
+            background-color: #eab308;
+            border-radius: 50%;
+            box-shadow: 0 0 15px #eab308;
+            z-index: 3;
+        }
+
+        /* Seção de Textos da Direita */
+        .player-info {
+            margin-left: 85px; 
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 6px;
+            overflow: hidden;
+            flex-grow: 1;
+            z-index: 2; 
+        }
+
+        /* Status do topo (LED Roxo + Texto) */
+        .status-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            background-color: #c084fc;
+            border-radius: 50%;
+            box-shadow: 0 0 15px #a855f7;
+            animation: pulseStatus 1.5s infinite ease-in-out;
+        }
+
+        .status-text {
+            color: #c084fc;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        /* Títulos */
+        .track-title {
+            color: #ffffff;
+            font-size: 26px;
+            font-weight: 700;
+            margin: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+        }
+
+        .track-artist {
+            color: #a78bfa; /* Tom violeta claro para combinar */
+            font-size: 16px;
+            font-weight: 500;
+            margin: 0;
+        }
+
+        /* BOTÃO LUXUOSO RAMPADO "OUVIR AGORA" */
+        .listen-now-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: fit-content;
+            padding: 10px 24px;
+            background: linear-gradient(90deg, #a855f7, #6366f1);
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(168, 85, 247, 0.4);
+            margin-top: 12px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .listen-now-btn:hover {
+            transform: scale(1.04);
+            box-shadow: 0 0 25px rgba(168, 85, 247, 0.7);
+        }
+
+        /* Rotação do vinil */
+        @keyframes spinVinyl {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /* Pulsação do LED */
+        @keyframes pulseStatus {
+            0%, 100% { opacity: 0.5; transform: scale(0.9); }
+            50% { opacity: 1; transform: scale(1.1); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="spotify-card">
+        
+        <!-- VÍDEO DE FUNDO DO PAINEL -->
+        <!-- Dica: Coloque aqui um fundo abstrato roxo ou partículas escuras -->
+        <video class="panel-video-bg" autoplay loop muted playsinline>
+            <source src="YTDown.com_YouTube_Anny-VICIO-DE-AMOR-ft-_Chrono0_Media_ZLzDMCS6pPY_001_1080p.mp4" type="video/mp4">
+        </video>
+        
+        <!-- Bloco do Player Expandido -->
+        <div class="player-wrapper">
+            <!-- Capa no Formato Retangular 16:8 -->
+            <div class="cover-frame">
+                <!-- COLOQUE SUA IMAGEM DO ANIME AQUI NO SRC -->
+                <img class="album-cover" src="thumbnail-youtube-1280x720 (1).jpg" alt="Capa do Álbum">
+            </div>
+            
+            <!-- Disco de Vinil que roda ao lado com reflexos roxos e centro dourado -->
+            <div class="vinyl-record">
+                <div class="record-dot"></div>
+            </div>
+        </div>
+
+        <!-- Bloco de Texto Alinhado -->
+        <div class="player-info">
+            <div class="status-container">
+                <div class="status-dot"></div>
+                <span class="status-text">Tocando Agora</span>
+            </div>
+            <h1 class="track-title">VÍCIO DE AMOR</h1>
+            <p class="track-artist">Anny</p>
+            
+            <!-- Botão Ouvir Agora -->
+            <a href="#" class="listen-now-btn">Ouvir Agora</a>
+        </div>
+
+    </div>
+
+</body>
+</html>
