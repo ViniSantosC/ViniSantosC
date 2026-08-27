@@ -51,7 +51,9 @@
 
  
 </div>
-
+<a href="https://youtu.be/oxq5eW9dOT4?is=0dh53R5xygNYW7I5">
+  <img src="./vini-prodigios-card.svg" width="900">
+</a>
 
 #
 
