@@ -50,10 +50,16 @@
 
 
  
+#
+
+<!-- SEÇÃO PREMIUM: SEU NOVO WIDGET ROXO TOTALMENTE INTEGRADO -->
+<div align="center">
+  <h3>🎵 Now Playing</h3>
+  <br>
+  <a href="https://youtu.be/oxq5eW9dOT4?is=0dh53R5xygNYW7I5" target="_blank">
+    <img src="sport.gif" width="780" alt="Widget de Música Premium" style="border-radius: 24px;">
+  </a>
 </div>
-<a href="https://youtu.be/oxq5eW9dOT4?is=0dh53R5xygNYW7I5">
-  <img src="./vini-prodigios-card.svg" width="900">
-</a>
 
 #
 
