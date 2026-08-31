@@ -54,7 +54,7 @@
 <div align="center">
   <h3>🎵 Now Playing</h3>
   <br>
-  <a href="https://youtu.be/oxq5eW9dOT4?is=0dh53R5xygNYW7I5](https://youtu.be/ZLzDMCS6pPY?si=6oQF5g_nfMblZ0m0" target="_blank">
+  <a href="https://youtu.be/ZLzDMCS6pPY?si=Mukm_pXg6pbyd0Qp" target="_blank">
     <img src="musica v3.gif" width="780" alt="Widget de Música Premium" style="border-radius: 24px;">
   </a>
 </div>
