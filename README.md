@@ -69,3 +69,9 @@
 
 ```bash
 curl https://curriculo-terminal.onrender.com/
+```
+
+> 💡 **Nota para usuários do Windows (PowerShell):** Caso o comando acima apresente erros ou não exiba o resultado esperado, utilize `curl.exe` no lugar de `curl`:
+> ```powershell
+> curl.exe https://curriculo-terminal.onrender.com/
+> ```
