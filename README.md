@@ -60,6 +60,28 @@
 
 #
 
+## Projetos
+
+### Salotti Esportivo
+
+Projeto web voltado à apresentação de modalidades esportivas e conteúdos relacionados ao esporte.
+
+![Salotti Esportivo](./capturas/projeto-01.png)
+
+### Salotti Opina
+
+Plataforma de avaliações e feedback escolar, conectando alunos, professores e administração.
+
+![Salotti Opina](./capturas/projeto-02.png)
+
+### Vinni-Coffee
+
+Projeto de interface para uma aplicação de cafeteria, desenvolvido com HTML, CSS e JavaScript.
+
+![Vinni-Coffee](./capturas/projeto-03.png)
+
+#
+
 <h3 align="left">📄 Meu Currículo</h3>
 
 <a href="https://curriculo-terminal.onrender.com/">
