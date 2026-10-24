@@ -69,5 +69,5 @@
 **Também desenvolvi uma forma diferente de apresentar minha trajetória: um currículo que pode ser acessado diretamente pelo terminal.**
 
 ```bash
-curl https://curriculo-terminal.onrender.com/
+curl.exe https://curriculo-terminal.onrender.com/
 ```
