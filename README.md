@@ -41,7 +41,7 @@
   <br>
  <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ViniSantosC&theme=tokyonight&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=ViniSantosC&theme=blueberry&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
   </a>
 </div>
 
