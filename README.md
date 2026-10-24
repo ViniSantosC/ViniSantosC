@@ -66,7 +66,7 @@
 
 Projeto web voltado à apresentação de modalidades esportivas e conteúdos relacionados ao esporte.
 
-![Salotti Esportivo](./capturas/projeto-01.png)
+![Salotti Esportivo](6164b591-cfe0-11f1-be30-8f0e319c9774.png)
 
 ### Salotti Opina
 
