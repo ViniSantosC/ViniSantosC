@@ -4,8 +4,8 @@
 </a>
 </div>
 
-<img src="./assets/banner.png" alt="Banner pessoal de Vinicius Santos" width="100%">
-#
+<img src="file_000000003f74820ebc79d9b4e0c18cfa.png" alt="Banner pessoal de Vinicius Santos" width="100%">
+
 
 <p align="center">Olá! Sou estudante do Ensino Médio técnico em Desenvolvimento de Sistemas. Meu objetivo principal é criar interfaces lindas, modernas e experiências digitais interativas das quais eu sinta orgulho de ter desenvolvido.
 
