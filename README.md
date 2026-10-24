@@ -66,11 +66,8 @@
   <img src="https://img.shields.io/badge/Currículo%20Terminal-078CFF?style=for-the-badge&logo=linux&logoColor=white" alt="Currículo no Terminal">
 </a>
 
+**Também desenvolvi uma forma diferente de apresentar minha trajetória: um currículo que pode ser acessado diretamente pelo terminal.**
+
 ```bash
 curl https://curriculo-terminal.onrender.com/
 ```
-
-> 💡 **Nota para usuários do Windows (PowerShell):** Caso o comando acima apresente erros ou não exiba o resultado esperado, utilize `curl.exe` no lugar de `curl`:
-> ```powershell
-> curl.exe https://curriculo-terminal.onrender.com/
-> ```
