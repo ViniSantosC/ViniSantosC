@@ -78,7 +78,7 @@ Plataforma de avaliações e feedback escolar, conectando alunos, professores e 
 
 Projeto de interface para uma aplicação de cafeteria, desenvolvido com HTML, CSS e JavaScript.
 
-![Vinni-Coffee](./capturas/projeto-03.png)
+![Vinni-Coffee](61646770-cfe0-11f1-be30-8f0e319c9774.png)
 
 #
 
