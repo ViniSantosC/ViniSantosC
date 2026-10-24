@@ -72,7 +72,7 @@ Projeto web voltado à apresentação de modalidades esportivas e conteúdos rel
 
 Plataforma de avaliações e feedback escolar, conectando alunos, professores e administração.
 
-![Salotti Opina](./capturas/projeto-02.png)
+![Salotti Opina](6164b590-cfe0-11f1-be30-8f0e319c9774.png)
 
 ### Vinni-Coffee
 
