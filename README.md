@@ -64,7 +64,7 @@
 <h3 align="left">📄 Meu Currículo</h3>
 
 <a href="https://curriculo-terminal.onrender.com/">
-  <img src="https://img.shields.io/badge/%20Currículo%20no%20Terminal-3b2c68?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currículo%20Terminal-078CFF?style=for-the-badge&logo=linux&logoColor=white" alt="Currículo no Terminal">
 </a>
 
 ```bash
