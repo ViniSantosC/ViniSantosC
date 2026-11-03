@@ -47,18 +47,7 @@
 
 
  
-#
 
-<!-- SEÇÃO PREMIUM: SEU NOVO WIDGET ROXO TOTALMENTE INTEGRADO -->
-<div align="center">
-  <h3>🎵 Now Playing</h3>
-  <br>
-  <a href="https://youtu.be/ZLzDMCS6pPY?si=Mukm_pXg6pbyd0Qp" target="_blank">
-    <img src="musica v3.gif" width="780" alt="Widget de Música Premium" style="border-radius: 24px;">
-  </a>
-</div>
-
-#
 
 ## Projetos
 
