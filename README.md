@@ -53,13 +53,11 @@
 
 <table width="100%">
   <tr>
-    <!-- Projeto 1: Salotti Esportivo -->
     <td width="50%" align="center" valign="top">
       <h3>🏆 Salotti Esportivo</h3>
       <p>Projeto web voltado à apresentação de modalidades esportivas e conteúdos relacionados ao esporte.</p>
       <img src="6164b591-cfe0-11f1-be30-8f0e319c9774.png" width="98%" alt="Salotti Esportivo" style="border-radius: 8px;">
     </td>
-    <!-- Projeto 2: Salotti Opina -->
     <td width="50%" align="center" valign="top">
       <h3>💬 Salotti Opina</h3>
       <p>Plataforma de avaliações e feedback escolar, conectando alunos, professores e administração.</p>
@@ -67,8 +65,6 @@
     </td>
   </tr>
 </table>
-
-<!-- Projeto 3: Vinni-Coffee (Centralizado e proporcional embaixo) -->
 <br>
 <div align="center">
   <h3>☕ Vinni-Coffee</h3>
